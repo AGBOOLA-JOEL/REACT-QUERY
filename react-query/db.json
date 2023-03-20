@@ -1,0 +1,98 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman dark ",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman ",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "the flash",
+      "alterEgo": " barry allen",
+      "id": 4
+    },
+    {
+      "name": "will smith ",
+      "alterEgo": "black monkey",
+      "id": 5
+    },
+    {
+      "name": "robin",
+      "alterEgo": "gilnmour",
+      "id": 6
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "chandler bing"
+    },
+    {
+      "id": 2,
+      "name": "joey tribianni"
+    },
+    {
+      "id": 3,
+      "name": "rachael green"
+    }
+  ],
+  "users": [
+    {
+      "id": "joel@example.com",
+      "channelId": "joelevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "joelevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "yellow"
+    },
+    {
+      "id": 3,
+      "label": "pink"
+    },
+    {
+      "id": 4,
+      "label": "purple"
+    },
+    {
+      "id": 5,
+      "label": "brown"
+    },
+    {
+      "id": 6,
+      "label": "black"
+    },
+    {
+      "id": 7,
+      "label": "gray"
+    },
+    {
+      "id": 8,
+      "label": "indigo"
+    }
+  ]
+}
