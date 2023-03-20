@@ -1,5 +1,5 @@
 //  QUERIES DEPENDENT ON THE RESULT OF ANOTHER QUERY
- 
+
 import axios from "axios";
 import { useQuery } from "react-query";
 
@@ -27,5 +27,5 @@ export default function DependentQueriesPage({ email }) {
   );
 
   console.log(courseList?.data);
-  return <div>learn how to map it out</div>;  
+  return <div>learn how to map it out</div>;
 }
