@@ -11,7 +11,7 @@ const fetchUserByChannelId = (channelId) => {
   return axios.get(`http://localhost:4000/channels/${channelId}`);
 };
 
-export default function DependentQueriesPage({ email }) {
+export default function DependentQueriesPage({ email }) {f
   const { data: user } = useQuery(["user", email], () =>
     fetchUserByEmail(email)
   );
